@@ -1,4 +1,4 @@
-This is the replication package for paper [The Strength of Weak Ties Between Open-Source Developers](https://arxiv.org/abs/2411.05646).
+This is the replication package for paper "The Strength of Weak Ties Between Open-Source Developers".
 
 Please download the data [here](https://drive.google.com/drive/folders/14KIIUfrAz6I6PCy7iC-yqH0eiNNqY9z_?usp=sharing).
                                 
